@@ -1,0 +1,12 @@
+Flask
+python-dotenv
+PyMuPDF==1.22.0  
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+groq
+bert-score
+sentence-transformers
+pyngrok==7.2.11
+frontend
